@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'pomarex16_prestashop-gastrofaza',
+    'database_user' => 'pomarex16_prestashop-gastrofaza',
+    'database_password' => '8nq9zw91iG',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'jbihQS8garTN59IWwajpWffCAs2qFdMLPyAWvHguIFbD24GyebbqK0uQ',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-07-01',
+    'locale' => 'pl-PL',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'nHv8aFKZTNvyUNX6vjAX19JHauqryja1KYmOzRXVpvDwYoR7AZm5GOmr',
+    'cookie_iv' => 'Od6AYTVM',
+    'new_cookie_key' => 'def00000cdd1b6ab3e0f4066d19c7a59cc8995d0ac30305d5642405d95c35f74d0bcd400a5aded793793744c6b5e2a809eac93f4460ec9420004a40e073774908f21a14e',
+  ),
+);
